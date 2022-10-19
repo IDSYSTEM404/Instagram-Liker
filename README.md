@@ -6,3 +6,4 @@ Bot Auto Like Timeline Instagram
 - git clone https://github.com/IDSYSTEM404/Instagram-Like arif
 - cd arif
 - php liker.php
+-82068207
